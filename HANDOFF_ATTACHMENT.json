@@ -1,0 +1,19 @@
+{
+  "filename": "Opus_5_5_Analytical_Learner_Under30MB.zip",
+  "bytes": 23522523,
+  "decimal_mb": 23.522523,
+  "sha256": "650b7887eb6527d53de5e3bd92773742e4cb84974680a1494474fa96d3c5f96f",
+  "maximum_bytes": 30000000,
+  "under_limit": true,
+  "archive_entries": 812,
+  "manifest_verified_files": 811,
+  "zip_crc_check_passed": true,
+  "original_research_files_preserved_byte_identical": 799,
+  "full_100m_corpus_included": false,
+  "corpus_prefix_member_bytes": 12000000,
+  "corpus_prefix_preserves_legacy_harness_input": true,
+  "code_results_checkpoints_and_media_preserved": true,
+  "delivery": "separate ChatGPT file attachment; ZIP not uploaded to this GitHub repository",
+  "repository_documents": "OPUS_5_5_ANALYTICAL_LEARNER_HANDOFF.md, EVIDENCE_MAP.md, DELIVERY_30MB.md, README.md, HANDOFF_ATTACHMENT.json",
+  "historical_source_commit": "e6a255c7a4b5c0b51a74a1fe0c1e081f29680859"
+}
